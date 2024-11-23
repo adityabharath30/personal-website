@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 741c4936-1b33-48a4-be5d-282bfc76bc54
+      url: https://adityabharath.netlify.app
