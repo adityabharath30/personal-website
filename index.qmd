@@ -1,12 +1,37 @@
 ---
 title: "Aditya Bharath"
+about:
+  template: trestles
+  image: 84198671.jpeg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/aditya-bharath-ab48761a7/
+    - icon: github
+      text: Github
+      href: https://github.com/adityabharath30
+    - icon: inbox-fill
+      text: Email
+      href: "mailto:adityabharath@ucla.edu"
 ---
 
-This is a Quarto website.
+Hi, I am a Senior at UCLA double majoring in Statistics and Economics. My journey has fueled a passion for data analytics, and I find particular excitement in applying these skills to the dynamic realms of sports and business intelligence. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am intrigued by the transformative potential of quantitative analysis in shaping decision-making processes, whether at an individual or organizational level.
 
-```{r}
-runif(10)
-```
+Here is my [<span style="color:red;">**Resume**</span>](/Aditya_Bharath_Resume.pdf)
 
+## Education
+
+University of California, Los Angeles | Los Angeles, CA |
+B.S. Statisics and Data Science + B.A. Economics | Sept 2021 - June 2025
+
+London School of Economics and Political Science | London, UK | 
+Machine Learning in Practice | June 2022 - July 2022
+
+##  Internship Experience
+
+CVS Health | Data Engineering Intern | June 2024 - August 2024
+
+Tata 1MG | Data Science Intern | July 2023 - September 2023
+---

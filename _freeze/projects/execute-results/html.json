@@ -1,0 +1,17 @@
+{
+  "hash": "b1157717c0420bceae65f1a540b2e751",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\ntoc: false\n---\n\n\n\n## [NBA Duofit](https://nbaduofit-ndathxppnk3jgyyrvolahw.streamlit.app)\n\nDeveloped a clustering algorithm to assess player similarity, then built a model to predict a score of how well any 2 user selected players would fit together. \n\nSteph Curry x LeBron James? \n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n## [Midfielder Archetype Analysis](https://drive.google.com/file/d/1yJFgXSn0zPPDRND_2YP83rCQN_LZXrV3/view)\n\nThere's so many ways to classify football midfielders. This project outlines my method. Also: what combination of x-y-z types makes for the best outcomes?",
+    "supporting": [
+      "projects_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

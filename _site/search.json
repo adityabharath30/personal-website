@@ -7,10 +7,66 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "about.html#heading-1",
+    "href": "about.html#heading-1",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#new-heading",
+    "href": "about.html#new-heading",
+    "title": "About",
+    "section": "New Heading",
+    "text": "New Heading"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aditya Bharath",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nrunif(10)\n\n [1] 0.80393335 0.32280878 0.22872869 0.06080043 0.64901390 0.38733692\n [7] 0.68322596 0.74973742 0.87625732 0.12168367"
+    "text": "Hi, I am a Senior at UCLA double majoring in Statistics and Economics. My journey has fueled a passion for data analytics, and I find particular excitement in applying these skills to the dynamic realms of sports and business intelligence.\nI am intrigued by the transformative potential of quantitative analysis in shaping decision-making processes, whether at an individual or organizational level.\nHere is my Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Aditya Bharath",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | B.S. Statisics and Data Science + B.A. Economics | Sept 2021 - June 2025\nLondon School of Economics and Political Science | London, UK | Machine Learning in Practice | June 2022 - July 2022"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Aditya Bharath",
+    "section": "Experience",
+    "text": "Experience\nCVS Health | Data Engineering Intern | June 2024 - August 2024\nTata 1MG | Data Science Intern | July 2023 - September 2023"
+  },
+  {
+    "objectID": "index.html#internship-experience",
+    "href": "index.html#internship-experience",
+    "title": "Aditya Bharath",
+    "section": "Internship Experience",
+    "text": "Internship Experience\nCVS Health | Data Engineering Intern | June 2024 - August 2024\nTata 1MG | Data Science Intern | July 2023 - September 2023"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed a clustering algorithm to assess player similarity, then built a model to predict a score of how well any 2 user selected players would fit together.\nSteph Curry x LeBron James?"
+  },
+  {
+    "objectID": "projects.html#nba-duofit",
+    "href": "projects.html#nba-duofit",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed a clustering algorithm to assess player similarity, then built a model to predict a score of how well any 2 user selected players would fit together.\nSteph Curry x LeBron James?"
+  },
+  {
+    "objectID": "projects.html#midfielder-archetype-analysis",
+    "href": "projects.html#midfielder-archetype-analysis",
+    "title": "Projects",
+    "section": "Midfielder Archetype Analysis",
+    "text": "Midfielder Archetype Analysis\n\nThere’s so many ways to classify football midfielders. This project outlines my method. Also: what combination of x-y-z types makes for the best outcomes?"
   }
 ]

@@ -1,0 +1,20 @@
+---
+title: "Projects"
+toc: false
+---
+
+## [<span style="color:red;">**NBA DuoFit**</span>](https://nbaduofit-ndathxppnk3jgyyrvolahw.streamlit.app)
+
+Developed a clustering algorithm to assess player similarity, then built a model to predict a score of how well any 2 user selected players would fit together. 
+
+Steph Curry x LeBron James? 
+
+<img src="nbaduofit.png" width="250" height="250">
+
+
+## [<span style="color:red;">**Midfielder Archetype Analysis**</span>](https://drive.google.com/file/d/1yJFgXSn0zPPDRND_2YP83rCQN_LZXrV3/view)
+
+<img src="midfield.png" width="250" height="250">
+
+
+There's so many ways to classify football midfielders. This project outlines my method. Also: what combination of x-y-z types makes for the best outcomes?

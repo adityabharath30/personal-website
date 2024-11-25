@@ -1,0 +1,15 @@
+{
+  "hash": "8274e0f139e7f86cb13fa5030f765236",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Aditya Bharath\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.50073224 0.49267661 0.01819363 0.56862101 0.17473829 0.20248594\n [7] 0.08669164 0.48344495 0.50641930 0.21292460\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
